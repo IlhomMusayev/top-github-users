@@ -3160,14 +3160,14 @@ There are `1000 users`  in Uzbekistan. You need at least `6 followers` to be on 
 		<td>179</td>
 	</tr>
 	<tr>
-		<td>236</td>
+		<td>1</td>
 		<td>
 			<a href="https://github.com/IlhomMusayev">
 				<img src="https://avatars.githubusercontent.com/u/73127814?s=72&u=1981b3b963108389afc180869bd97c9dee6592c6&v=4" width="24" alt="Avatar of IlhomMusayev"> IlhomMusayev
 			</a><br/>
 			Ilhom Musayev
 		</td>
-		<td>@noor </td>
+		<td>Noortech </td>
 		<td><a href="https://twitter.com/MusayevIlhomjon">MusayevIlhomjon</a></td>
 		<td>Uzbekistan Tashkent</td>
 		<td>179</td>
